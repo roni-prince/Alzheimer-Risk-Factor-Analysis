@@ -1,6 +1,6 @@
 # Alzheimer's Disease Risk Factor Analysis 
 
-**Final Project: Neuro-Data Analysis** **Team Members:** Roni prince (213117468), hanna Sharon (212453773)
+**Final Project: Neuro-Data Analysis** **Team Members:** Roni prince, hanna Sharon 
 
 ## Project Overview
 This project investigates the relationship between demographic data, lifestyle habits, and cognitive clinical scores in predicting Alzheimer's Disease. Using a comprehensive dataset of 2,149 patients, we aim to identify key predictors and assess how lifestyle choices impact cognitive health.
@@ -25,4 +25,5 @@ This project investigates the relationship between demographic data, lifestyle h
 
 ## Instructions
 1. Install requirements: `pip install -r requirements.txt`
+
 2. Run analysis: `python main.py`
